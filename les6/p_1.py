@@ -1,0 +1,5 @@
+law = ('USA' , 'Japan' , 'German', 'Jamaika' , 5 , 777, True)
+print(law)
+print(law[1] , law[2])
+a = law.index('Japan')
+print(a)
